@@ -355,6 +355,7 @@ For support and questions:
 
 ## Live preview
 
-Live preview link(https://learning-management-blush.vercel.app/)
+Live preview [link](https://learning-management-blush.vercel.app/)
+
 
 
