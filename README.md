@@ -121,7 +121,7 @@ CLOUDFRONT_DOMAIN=your_cloudfront_domain
 
 1. **Clone the repository**
    ```bash
-   git clone [<repository-url>](https://github.com/subhrajitMukherje/Inventory-management.git)
+   git clone https://github.com/subhrajitMukherje/Inventory-management.git
    cd inventory-management
    ```
 
@@ -361,3 +361,4 @@ For support and questions:
 - User progress tracking
 
 - AWS infrastructure setup
+
