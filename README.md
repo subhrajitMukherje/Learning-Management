@@ -1,4 +1,4 @@
-﻿# Inventory Management System
+﻿# Learning Management System
 
 A full-stack learning management platform built with Next.js, Express.js, and AWS services. This system allows instructors to create and manage courses while students can enroll, track progress, and make payments.
 
@@ -356,6 +356,7 @@ For support and questions:
 ## Live preview
 
 Live preview [link](https://learning-management-blush.vercel.app/)
+
 
 
 
