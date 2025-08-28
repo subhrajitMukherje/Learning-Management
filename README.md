@@ -353,12 +353,8 @@ For support and questions:
 - Check the troubleshooting section
 - Review the API documentation
 
-## 🔄 Version History
+## Live preview
 
-- **v1.0.0**: Initial release with core functionality
-- Course management and enrollment system
-- Stripe payment integration
-- User progress tracking
+Live preview link(https://learning-management-blush.vercel.app/)
 
-- AWS infrastructure setup
 
